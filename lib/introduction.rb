@@ -1,7 +1,8 @@
 
 
 def introduction(name)
-  
+  puts "Hi, my name is ${name}"
+end
 
 
 describe "#introduction" do 
